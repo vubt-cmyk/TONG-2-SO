@@ -1,1 +1,15 @@
+{
+  "tests": [
+    {
+      "name": "Tính tổng 2 số",
+      "setup": "gcc main.c -o main",
+      "run": "bash test.sh",
+      "input": "",
+      "expected_output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
 
